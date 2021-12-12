@@ -1,0 +1,3 @@
+Linked List : Data + reference of next node stored . 
+Reference stored in java not the memory location . 
+Always we need to iterate from head .
